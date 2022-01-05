@@ -1,0 +1,1 @@
+# Arquivo criado em meu computador para enviar ao servidor Github
